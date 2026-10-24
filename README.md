@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahidhar
 
-<!--
-**mahi5111996/mahi5111996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Beginner DevOps learner | Exploring Docker, GitHub, and MySQL  
+💡 Passionate about automation and cloud technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- DevOps | Docker | GitHub | MySQL  
+- Automation scripting | CI/CD basics  
+
+---
+
+## 📚 Learning Journey
+- 🌱 Currently working on: DevOps fundamentals  
+- 🎯 Goal: Complete my DevOps course by June 30  
+- 🔍 Next step: Build small automation projects  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahidhar&show_icons=true&theme=radical)
+
+---
+
+## 📫 Reach Me
+- LinkedIn: [www.linkedin.com/in/mahidhar-mallapuram]
+- Email: mahi5111996@gmail.com
