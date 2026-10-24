@@ -12,8 +12,8 @@
 ---
 
 ## 📚 Learning Journey
-- 🌱 Currently working on: DevOps fundamentals  
-- 🎯 Goal: Complete my DevOps course by June 30  
+- 🌱 Currently working on: DevOps fundamentals and Automation Framework(Selenium & Playwright)  
+- 🎯 Goal: Complete my DevOps course and Automation Framework(Selenium & Playwright)
 - 🔍 Next step: Build small automation projects  
 
 ---
